@@ -21,7 +21,7 @@ This is a simple command-line interface (CLI) application for managing tasks.
 **Clone the Repository**
 
    ```bash
-   git clone --depth=1 https://github.com/Aj-Seven/backend-projects
+   git clone --depth=1 https://github.com/arizfaiyaz/Task-Tracker.git
 
    # Navigate to the project Directory
    cd backend-projects/task-cli
@@ -74,10 +74,10 @@ node index.js delete 1
 [
   {
     "id": 1,
-    "description": "Drink a Coffee",
+    "description": "Drink a Tea",
     "completed": false,
     "inProgress": false
   }
 ]
 ```
-> Note: Place the JSON file in the same directory as the task code.
+

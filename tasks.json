@@ -1,7 +1,37 @@
 [
   {
+    "id": 1,
+    "description": "drink tea",
+    "completed": true,
+    "inProgress": false
+  },
+  {
     "id": 2,
-    "description": "dont call her ",
+    "description": "code in js",
+    "completed": false,
+    "inProgress": false
+  },
+  {
+    "id": 3,
+    "description": "how do i code in js",
+    "completed": false,
+    "inProgress": false
+  },
+  {
+    "id": 4,
+    "description": "learn to code",
+    "completed": false,
+    "inProgress": false
+  },
+  {
+    "id": 5,
+    "description": "record a vid",
+    "completed": false,
+    "inProgress": true
+  },
+  {
+    "id": 6,
+    "description": "publish it to twitter",
     "completed": false,
     "inProgress": false
   }

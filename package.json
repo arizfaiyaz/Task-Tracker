@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "ARIZFAIYAZ",
   "license": "ISC",
-  "description": "Simple task cli"
+  "description": "A very simple Task-Tracker for your project it can be used in your terminal by npm install task-tracker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arizfaiyaz/Task-Tracker.git"
+  }
 }
